@@ -1,3 +1,4 @@
+All codes and figures in the jupyter notebook with corresponding headings.
 
 # problem 1
 
@@ -30,15 +31,15 @@ codes, figure and outputs in problem 1's jupyter notebook.
   change of GDP with respect to time for each continent( each color ) is shown in problem 2.
   mean life expectancy ( divided by number of coutries in that continent )with respect to time always increases, for each continent, except for time in world war 1 and 2. The outlier is NA( North America) and SA( South america), which means they are not influenced so much by world wars.
   
-  mean mortality ( divided by number of coutries in that continent ) after world war 2 increases for a short time and then decreases for all continents. The outlier is Oceania, which has not data until 1970.
+  mean mortality, per 1000 people,  ( divided by number of coutries in that continent ) after world war 2 increases for a short time and then decreases for all continents. The outlier is Oceania, which has not data until 1970.
   
 # problem 4
 
 variable 1: country ( converted to continent)
 
-variable 2: hiv ratio between 15 and 49
+variable 2: hiv ratio, per 100 people, between 15 and 49
 
-hiv ratio in Africa is much highier.
+hiv ratio( divided by number of coutries in that continent ) in Africa is much highier.
 
 Genrally, Hiv ratio in multiple continents increases in 1990 and then slowly decreases to stability.
 
