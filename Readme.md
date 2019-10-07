@@ -1,5 +1,6 @@
 All codes and figures in the jupyter notebook with corresponding headings.
 
+try https://nbviewer.jupyter.org/ if github cannot render the jupyter
 # problem 1
 
 well, 50 points...
