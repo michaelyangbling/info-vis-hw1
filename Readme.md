@@ -13,25 +13,27 @@ codes, figure and outputs in problem 1's jupyter notebook.
 
 
 # problem 2
- I choose to do total GDP but not per capita, since total GDP represents the overall global impact from a country/ continent. 
+
  
- Each color( each continent) in the plot represents the total gdp after inflation adjustment vs time.
+ Each color( each continent) in the plot represents the gdp per capita.
  
  Some country codes are mismatched and eliminated.
  
- GDP suddenly increases more rapidly for almost all continents around 1950, after world war 2. 
+ NA, EU and OC are higher in GDP.
  
- There is almost no deviation from this trend.
+ GDP increases for all continents
  
- Caveat is that this is total but not GDP per capita, where we need any country's population at any time, and I cannot find that data.
+ Deviation: at about 2008, some countries decreases.
+ 
+ Caveat is that GDP per capita in a continent is not representative of countries.
  
  
 # problem 3
 
   change of GDP with respect to time for each continent( each color ) is shown in problem 2.
-  mean life expectancy ( divided by number of coutries in that continent )with respect to time always increases, for each continent, except for time in world war 1 and 2. The outlier is NA( North America) and SA( South america), which means they are not influenced so much by world wars.
+  mean life expectancy with respect to time always increases, for each continent, except for time in world war 1 and 2. The outlier is NA( North America), AF, OC, and SA( South america), which means they are not influenced so much by world war 2.
   
-  mean mortality, per 1000 people,  ( divided by number of coutries in that continent ) after world war 2 increases for a short time and then decreases for all continents. The outlier is Oceania, which has not data until 1970.
+  mean mortality, per 1000 people,  after world war 2 increases for a short time and then decreases for all continents. The outlier is Oceania, which has not data until 1970.
   
 # problem 4
 
